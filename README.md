@@ -1,13 +1,13 @@
-# About Me
+## About Me
 
-Hi there! My name is **Miqueias Ayron**.
+Hi there! My name is **Miqueias Ayron** 👋
 
-I’m a highly motivated Computer Science student with strong interest in problem solving and technology.
+I’m a passionate **Computer Science student** with a strong interest in problem solving and technology.
 
-Currently, I’m focused on expanding my skill set by learning new programming languages and tools to solve real-world problems.  
-My main areas of interest include **web development**, **data science**, **artificial intelligence**, and **blockchain technology**.
+I’m currently focused on expanding my skill set by learning new programming languages and tools to build solutions for real-world problems.  
+My main interests include **web development**, **data science**, **artificial intelligence**, and **blockchain technology**.
 
-I'm currently studying Computer Science at Insper – Instituto de Pesquisa e Ensino.
+🎓 Computer Science student at **Insper – Instituto de Pesquisa e Ensino**.
 
 ---
 
