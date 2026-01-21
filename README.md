@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Hi there! My name is **Miqueias Ayron**
 
@@ -11,20 +11,20 @@ Computer Science student at **Insper – Instituto de Pesquisa e Ensino**.
 
 ---
 
-## Languages and Technologies
+# Languages and Technologies
 
-### Programming Languages
+## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### Web Development
+## Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## Interests
+# Interests
 - Web Development
 - Data Science
 - Artificial Intelligence
