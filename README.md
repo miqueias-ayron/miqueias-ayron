@@ -51,8 +51,10 @@ Computer Science student at **Insper – Instituto de Pesquisa e Ensino**.
 ---
 
 ## GitHub Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=miqueias-ayron&theme=dark)
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miqueias-ayron&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=miqueias-ayron&theme=dark&hide_border=true&locale=pt_BR)
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miqueias-ayron&theme=github_dark)
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqueias-ayron/)
